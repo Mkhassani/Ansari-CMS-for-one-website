@@ -1,0 +1,1019 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: broozmarket\n"
+"POT-Creation-Date: 2016-05-01 22:44+0200\n"
+"PO-Revision-Date: 2016-05-01 22:44+0200\n"
+"Last-Translator: mkazem <mkazem.web.p@gmail.com>\n"
+"Language-Team: \n"
+"Language: fa_AF\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: tran\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: controllers/About.php:19
+msgid "About"
+msgstr " درباره"
+
+#: controllers/About.php:33
+msgid "Manage About Us"
+msgstr "مدیریت درباره ما"
+
+#: controllers/About.php:39 controllers/About.php:66 controllers/Award.php:39
+#: controllers/Award.php:60 controllers/Materail.php:127
+#: controllers/Materail.php:166 controllers/Materail.php:190
+msgid "Add new article"
+msgstr "اضافه کردن یک مطلب جدید"
+
+#: controllers/About.php:54 controllers/About.php:180
+#: controllers/Announcement.php:54 controllers/Announcement.php:170
+#: controllers/Award.php:54 controllers/Award.php:171
+#: controllers/Materail.php:121 controllers/Materail.php:159
+#: controllers/Photo_gallery.php:126 controllers/Photo_gallery.php:163
+msgid "Please type a summery!"
+msgstr "لطفا خلاصه مطلب را وارد نمایید"
+
+#: controllers/About.php:59 controllers/About.php:185
+msgid "Please type a description!"
+msgstr "لطفا توضیح کامل مطلب خود را وارد نمایید"
+
+#: controllers/About.php:91
+msgid "Add image for article"
+msgstr "اضافه کردن عکس برای مطلب"
+
+#: controllers/About.php:160 controllers/About.php:192
+#: controllers/Announcement.php:150 controllers/Award.php:151
+#: controllers/Award.php:178
+msgid "Edit article"
+msgstr "ویرایش مطلب"
+
+#: controllers/About.php:169 controllers/Announcement.php:159
+#: controllers/Award.php:160
+msgid "Please type a title!"
+msgstr "لطفا عنوان را وارد نمایید"
+
+#: controllers/Admin.php:10 controllers/User.php:13
+msgid "BroozMarket"
+msgstr "بروز مارکت"
+
+#: controllers/Admin.php:11
+msgid "Admin"
+msgstr "مدیریت"
+
+#: controllers/Admin.php:45
+#: views/admin_side/permanent_parts/admin_content_header.php:24
+#: views/front_side/common/header.php:61
+msgid "Home"
+msgstr "خانه"
+
+#: controllers/Admin.php:48 controllers/Materail.php:379
+#: views/admin_side/materail/manage.php:13
+msgid "Manage Product"
+msgstr "مدیریت محصولات"
+
+#: controllers/Advertisement.php:8
+msgid "Advertisement"
+msgstr "تبلیغات"
+
+#: controllers/Announcement.php:19
+#: views/admin_side/permanent_parts/admin_sidebar.php:113
+#: views/front_side/pages/home.php:63
+msgid "Announcement"
+msgstr "اطلاعیه ها"
+
+#: controllers/Announcement.php:33
+msgid "Manage Announcement"
+msgstr "مدیریت اطلاعیه ها"
+
+#: controllers/Announcement.php:39 controllers/Announcement.php:60
+msgid "Add new announcement"
+msgstr "اضافه کردن اطلاعیه جدید"
+
+#: controllers/Announcement.php:84 controllers/Award.php:84
+#: controllers/Materail.php:195
+msgid "Please add an image!"
+msgstr "لطفا یک عکس وارد نمایید"
+
+#: controllers/Award.php:19
+#: views/admin_side/permanent_parts/admin_sidebar.php:95
+msgid "Award"
+msgstr "افتخارات"
+
+#: controllers/Award.php:33
+msgid "Manage Awards"
+msgstr "مدیریت افتخارات"
+
+#: controllers/Materail.php:21
+#: views/admin_side/permanent_parts/admin_sidebar.php:48
+#: views/front_side/common/header.php:62 views/front_side/pages/home.php:9
+#: views/front_side/pages/products.php:9
+msgid "Products"
+msgstr "محصولات"
+
+#: controllers/Materail.php:259
+msgid "Please add multiple image"
+msgstr "لطفا چندین عکس اضافه نمایید"
+
+#: controllers/Materail.php:384
+msgid "Edit Product"
+msgstr "ویرایش محصولات"
+
+#: controllers/Photo_gallery.php:20
+#: views/admin_side/permanent_parts/admin_sidebar.php:147
+#: views/front_side/common/header.php:70
+#: views/front_side/pages/video_gallery.php:11
+msgid "Video Gallery"
+msgstr "گالری ویدئوها"
+
+#: controllers/Photo_gallery.php:34 controllers/Video_gallery.php:40
+#: views/admin_side/photo_gallery/index.php:14
+msgid "Manage Photo Gallery"
+msgstr "مدیریت گالری عکس ها"
+
+#: controllers/Photo_gallery.php:193
+msgid "Add new photo gallery"
+msgstr "اضافه نمودن عکس جدید برای گالری"
+
+#: controllers/Photo_gallery.php:204
+msgid "Add image"
+msgstr "اضافه نمودن عکس"
+
+#: controllers/Photo_gallery.php:230
+msgid "Directory Not Exist"
+msgstr "فولدر موجود نیست"
+
+#: controllers/Photo_gallery.php:236
+msgid "Edit Photo Gallery"
+msgstr "ویرایش گالری عکس ها"
+
+#: controllers/Setting.php:19
+#: views/admin_side/permanent_parts/admin_sidebar.php:164
+msgid "Setting"
+msgstr "تنظیمات"
+
+#: controllers/Setting.php:32
+msgid "Manage Setting Of Your Website"
+msgstr "مدیریت تنظیمات وب سایت"
+
+#: controllers/Setting.php:41 controllers/User.php:95 controllers/User.php:183
+#: controllers/User.php:192 controllers/User.php:256
+msgid "please use an email address"
+msgstr "لطفا یک آدرس ایمیل اضافه نمایید"
+
+#: controllers/Slideshow.php:10
+msgid "slideshow"
+msgstr "سلاید شو"
+
+#: controllers/Slideshow.php:14
+msgid "Manage Slidshow"
+msgstr "مدیریت سلاید شو"
+
+#: controllers/User.php:11
+msgid "user"
+msgstr "کاربر"
+
+#: controllers/User.php:12
+msgid "User"
+msgstr "کاربر"
+
+#: controllers/User.php:26 controllers/User.php:101 controllers/User.php:262
+msgid "Please Use alpha-numeric characters, underscores or dashes"
+msgstr "لطفا از حروف، اعداد، اندرسکور و خط فاصله استفاده نمایید"
+
+#: controllers/User.php:32 controllers/User.php:107
+msgid "Passwords do not much"
+msgstr "پسورد مشابه نیست"
+
+#: controllers/User.php:70 controllers/User.php:321
+msgid "This email already used by another user"
+msgstr "این ایمیل قبلا استفاده شده است"
+
+#: controllers/User.php:83 controllers/User.php:89 controllers/User.php:171
+#: controllers/User.php:177 controllers/User.php:244 controllers/User.php:250
+msgid "please insert just alghabatic charecters"
+msgstr "لطفا فقط از حروف الفبا استفاده کنید"
+
+#: controllers/User.php:114 controllers/User.php:270
+msgid "Please Use Just numberic charecters"
+msgstr "لطفا تنها از اعداد استفاده نمایید"
+
+#: controllers/User.php:361 controllers/User.php:402
+msgid "Manage Your Profile"
+msgstr "مدیریت پروفایل"
+
+#: controllers/User.php:413
+msgid "Add New User"
+msgstr "اضافه کردن کاربر جدید"
+
+#: controllers/User.php:423
+msgid "Add Your Image Profile"
+msgstr "اضافه کردن عکس پروفایل"
+
+#: controllers/User.php:428 views/admin_side/user/manage.php:14
+msgid "Manage Users"
+msgstr "مدیریت کاربران"
+
+#: controllers/Video_gallery.php:23
+#: views/admin_side/permanent_parts/admin_sidebar.php:130
+#: views/front_side/common/header.php:69
+#: views/front_side/pages/photo_gallery.php:10
+msgid "Photo Gallery"
+msgstr "گالری عکس"
+
+#: controllers/Video_gallery.php:142
+msgid "Add New Photo Gallery"
+msgstr "اضافه کردن عکس گالری جدید"
+
+#: controllers/Video_gallery.php:147
+msgid "add group of images"
+msgstr "اضافه کردن چندین عکس"
+
+#: controllers/Video_gallery.php:179
+msgid "Seccussfully Deleted"
+msgstr "حذف موفقانه انجام شد"
+
+#: controllers/Video_gallery.php:186
+msgid "Edit Materail"
+msgstr "ویرایش محصولات "
+
+#: views/admin_side/about/add.php:12
+msgid "Add New Article For About Campany"
+msgstr "اضافه کردن یک مطلب درمورد شرکت"
+
+#: views/admin_side/about/add.php:24 views/admin_side/about/edit.php:35
+#: views/admin_side/announcement/add.php:22
+#: views/admin_side/announcement/edit.php:35 views/admin_side/award/add.php:23
+#: views/admin_side/award/edit.php:35 views/admin_side/materail/add.php:29
+#: views/admin_side/materail/materail_edit.php:41
+#: views/admin_side/photo_gallery/edit.php:35 views/admin_side/user/add.php:30
+#: views/admin_side/user/manage.php:45
+#: views/admin_side/video_gallery/add.php:22
+#: views/admin_side/video_gallery/edit.php:34
+msgid "Name"
+msgstr "نام "
+
+#: views/admin_side/about/add.php:26 views/admin_side/announcement/add.php:24
+#: views/admin_side/award/add.php:25 views/admin_side/photo_gallery/add.php:25
+msgid "Type Title Here"
+msgstr "تایپ عنوان در اینجا"
+
+#: views/admin_side/about/add.php:31 views/admin_side/about/edit.php:42
+#: views/admin_side/about/index.php:48 views/admin_side/announcement/add.php:29
+#: views/admin_side/announcement/edit.php:42
+#: views/admin_side/announcement/index.php:49 views/admin_side/award/add.php:30
+#: views/admin_side/award/edit.php:42 views/admin_side/award/index.php:49
+#: views/admin_side/materail/add.php:49 views/admin_side/materail/manage.php:48
+#: views/admin_side/materail/materail_edit.php:59
+#: views/admin_side/photo_gallery/add.php:31
+#: views/admin_side/photo_gallery/edit.php:42
+#: views/admin_side/photo_gallery/index.php:49
+#: views/admin_side/video_gallery/add.php:37
+#: views/admin_side/video_gallery/edit.php:41
+#: views/admin_side/video_gallery/index.php:49
+msgid "Summery"
+msgstr "خلاصه"
+
+#: views/admin_side/about/add.php:38
+msgid "Desxription"
+msgstr "توضیحات"
+
+#: views/admin_side/about/add.php:47 views/admin_side/announcement/add.php:37
+#: views/admin_side/materail/add.php:57
+#: views/admin_side/photo_gallery/add.php:39 views/admin_side/user/add.php:126
+#: views/admin_side/video_gallery/add.php:45
+msgid "Next"
+msgstr "بعدی"
+
+#: views/admin_side/about/edit.php:23
+msgid "Add new article for about"
+msgstr "اضافه کردن یک مطلب درمورد شرکت"
+
+#: views/admin_side/about/edit.php:51
+msgid "Description"
+msgstr "شرح"
+
+#: views/admin_side/about/edit.php:61 views/admin_side/announcement/edit.php:52
+#: views/admin_side/award/edit.php:52
+#: views/admin_side/materail/materail_edit.php:69
+#: views/admin_side/photo_gallery/edit.php:52
+#: views/admin_side/setting/edit.php:78
+#: views/admin_side/video_gallery/edit.php:51
+#: views/admin_side/video_gallery/edit.php:87
+#: views/admin_side/video_gallery/gallery_video.php:29
+msgid "Update"
+msgstr "بروزرسانی"
+
+#: views/admin_side/about/edit.php:78
+msgid "Manage Picture"
+msgstr "مدیریت تصویر"
+
+#: views/admin_side/about/edit.php:90
+#: views/admin_side/about/featured_image.php:62
+#: views/admin_side/announcement/edit.php:81 views/admin_side/award/edit.php:84
+#: views/admin_side/award/featured_image.php:62
+#: views/admin_side/setting/index.php:161
+#: views/admin_side/slideshow/index.php:24
+msgid "Upload"
+msgstr "بارگذاری"
+
+#: views/admin_side/about/extra_images.php:10
+#: views/admin_side/slideshow/index.php:10
+msgid "Manage slideshow"
+msgstr "مدیریت سلاید شو"
+
+#: views/admin_side/about/featured_image.php:44
+#: views/admin_side/announcement/featured_image.php:44
+#: views/admin_side/award/featured_image.php:44
+#: views/admin_side/materail/featured_image.php:44
+msgid "Please Upload Image"
+msgstr "لطفا عکس بارگذاری کنید"
+
+#: views/admin_side/about/index.php:13
+msgid "Manage Article Of Abour Your Company"
+msgstr "مدیریت مطالب مرتبط با درباره شرکت"
+
+#: views/admin_side/about/index.php:24
+#: views/admin_side/announcement/index.php:25
+#: views/admin_side/award/index.php:25 views/admin_side/materail/manage.php:24
+#: views/admin_side/permanent_parts/admin_sidebar.php:36
+#: views/admin_side/permanent_parts/admin_sidebar.php:54
+#: views/admin_side/permanent_parts/admin_sidebar.php:84
+#: views/admin_side/permanent_parts/admin_sidebar.php:101
+#: views/admin_side/permanent_parts/admin_sidebar.php:119
+#: views/admin_side/permanent_parts/admin_sidebar.php:136
+#: views/admin_side/permanent_parts/admin_sidebar.php:153
+#: views/admin_side/photo_gallery/index.php:25
+#: views/admin_side/user/manage.php:27
+#: views/admin_side/video_gallery/index.php:25
+msgid "Add New"
+msgstr "اضافه کردن جدید"
+
+#: views/admin_side/about/index.php:34
+#: views/admin_side/announcement/index.php:35
+#: views/admin_side/award/index.php:35 views/admin_side/materail/manage.php:34
+#: views/admin_side/photo_gallery/index.php:35
+#: views/admin_side/user/manage.php:32
+#: views/admin_side/video_gallery/index.php:35
+msgid "Tools"
+msgstr "ابزارها"
+
+#: views/admin_side/about/index.php:37
+#: views/admin_side/announcement/index.php:38
+#: views/admin_side/award/index.php:38 views/admin_side/materail/manage.php:37
+#: views/admin_side/photo_gallery/index.php:38
+#: views/admin_side/user/manage.php:35
+#: views/admin_side/video_gallery/index.php:38
+msgid "Print"
+msgstr "چاپ"
+
+#: views/admin_side/about/index.php:38
+#: views/admin_side/announcement/index.php:39
+#: views/admin_side/award/index.php:39 views/admin_side/materail/manage.php:38
+#: views/admin_side/photo_gallery/index.php:39
+#: views/admin_side/video_gallery/index.php:39
+msgid "Save as PDF"
+msgstr "ذخیره منحیث پی دی اف"
+
+#: views/admin_side/about/index.php:39
+#: views/admin_side/announcement/index.php:40
+#: views/admin_side/award/index.php:40 views/admin_side/materail/manage.php:39
+#: views/admin_side/photo_gallery/index.php:40
+#: views/admin_side/user/manage.php:37
+#: views/admin_side/video_gallery/index.php:40
+msgid "Export to Excel"
+msgstr "خروجی گرفتن به فایل اکسل"
+
+#: views/admin_side/about/index.php:46
+#: views/admin_side/announcement/index.php:47
+#: views/admin_side/award/index.php:47 views/admin_side/materail/manage.php:46
+#: views/admin_side/photo_gallery/index.php:47
+#: views/admin_side/video_gallery/index.php:47
+msgid "ID"
+msgstr "ای دی "
+
+#: views/admin_side/about/index.php:47
+#: views/admin_side/announcement/index.php:48
+#: views/admin_side/award/index.php:48 views/admin_side/materail/manage.php:47
+#: views/admin_side/photo_gallery/add.php:23
+#: views/admin_side/photo_gallery/index.php:48
+#: views/admin_side/video_gallery/index.php:48
+msgid "Title"
+msgstr "عنوان"
+
+#: views/admin_side/about/index.php:49
+#: views/admin_side/announcement/index.php:50
+#: views/admin_side/award/index.php:50 views/admin_side/materail/manage.php:49
+#: views/admin_side/photo_gallery/index.php:50
+#: views/admin_side/video_gallery/index.php:50
+msgid "Publish Date"
+msgstr "تازیخ انتشار"
+
+#: views/admin_side/about/index.php:50
+#: views/admin_side/announcement/index.php:51
+#: views/admin_side/award/index.php:51 views/admin_side/materail/manage.php:50
+#: views/admin_side/photo_gallery/index.php:51
+#: views/admin_side/user/manage.php:49
+#: views/admin_side/video_gallery/index.php:51
+msgid "Status"
+msgstr "حالت انتشار"
+
+#: views/admin_side/about/index.php:51
+#: views/admin_side/announcement/index.php:52
+#: views/admin_side/award/index.php:52 views/admin_side/materail/manage.php:51
+#: views/admin_side/photo_gallery/index.php:52
+#: views/admin_side/user/manage.php:50
+#: views/admin_side/video_gallery/index.php:52
+msgid "Edit"
+msgstr "ویرایش"
+
+#: views/admin_side/about/index.php:52
+#: views/admin_side/announcement/index.php:53
+#: views/admin_side/award/index.php:53 views/admin_side/materail/manage.php:52
+#: views/admin_side/photo_gallery/index.php:53
+#: views/admin_side/user/manage.php:51
+#: views/admin_side/video_gallery/edit.php:112
+#: views/admin_side/video_gallery/gallery_video.php:72
+#: views/admin_side/video_gallery/index.php:53
+msgid "Delete"
+msgstr "حذف"
+
+#: views/admin_side/announcement/add.php:10
+msgid "Add New Announcement"
+msgstr "اضافه کردن اطلاعیه جدید"
+
+#: views/admin_side/announcement/edit.php:23 views/admin_side/award/edit.php:23
+msgid "Update Title And Summery"
+msgstr "بروز رسانی عنوان و خلاصه"
+
+#: views/admin_side/announcement/edit.php:37 views/admin_side/award/edit.php:37
+msgid "Type New Title Here"
+msgstr "وارد کردن عنوان جدید"
+
+#: views/admin_side/announcement/edit.php:69
+msgid "Update Image"
+msgstr "بروز کردن عکس"
+
+#: views/admin_side/announcement/featured_image.php:62
+#: views/admin_side/award/add.php:38 views/admin_side/setting/index.php:72
+#: views/admin_side/setting/index.php:120 views/admin_side/user/login.php:83
+msgid "Submit"
+msgstr "تأیید کردن"
+
+#: views/admin_side/announcement/index.php:14
+msgid "Manage Announcement Of Your Company"
+msgstr "مدیریت اطلاعیه های شرکت"
+
+#: views/admin_side/award/add.php:11
+msgid "Add New Award Article"
+msgstr "اضافه کردن مقاله جایزه جدید"
+
+#: views/admin_side/award/edit.php:69
+#: views/admin_side/materail/materail_edit.php:86
+msgid "Manage picture"
+msgstr "مدیریت تصویر"
+
+#: views/admin_side/award/index.php:14
+msgid "Manage Award Article Of Your Company"
+msgstr "مدیریت افتخارات شرکت"
+
+#: views/admin_side/materail/add.php:17
+msgid "Add New Product"
+msgstr "اضافه کردن محصول جدید"
+
+#: views/admin_side/materail/add.php:32
+msgid "Type Your Product Name"
+msgstr "اسم محصول خود را بنویسید"
+
+#: views/admin_side/materail/add.php:38
+#: views/admin_side/materail/materail_edit.php:48
+msgid "Category"
+msgstr "دسته بندی"
+
+#: views/admin_side/materail/add.php:41
+#: views/admin_side/materail/materail_edit.php:51
+#: views/front_side/pages/products.php:24
+msgid "First Product"
+msgstr "محصولات 1"
+
+#: views/admin_side/materail/add.php:42
+#: views/admin_side/materail/materail_edit.php:52
+#: views/front_side/pages/products.php:25
+msgid "Second Product"
+msgstr "محصولات 2"
+
+#: views/admin_side/materail/add.php:43
+#: views/admin_side/materail/materail_edit.php:53
+#: views/front_side/pages/products.php:26
+msgid "Third Product"
+msgstr "محصولات 3"
+
+#: views/admin_side/materail/materail_edit.php:29
+msgid "Manage product"
+msgstr "مدیریت محصولات"
+
+#: views/admin_side/permanent_parts/admin_footer.php:20
+#: views/admin_side/user/login.php:92
+#: views/admin_side/user/reset_request.php:21
+#: views/admin_side/user/user_lock.php:33
+msgid "Designed and Developed by "
+msgstr "طراحی و دیزاین"
+
+#: views/admin_side/permanent_parts/admin_footer.php:22
+#: views/admin_side/user/user_lock.php:34
+msgid "Brooz"
+msgstr "بروز"
+
+#: views/admin_side/permanent_parts/admin_footer.php:23
+#: views/admin_side/user/login.php:93 views/admin_side/user/login.php:94
+#: views/admin_side/user/reset_request.php:22
+#: views/admin_side/user/reset_request.php:23
+#: views/admin_side/user/user_lock.php:35
+msgid "Soft"
+msgstr "سافت"
+
+#: views/admin_side/permanent_parts/admin_footer.php:23
+#: views/admin_side/user/login.php:94
+#: views/admin_side/user/reset_request.php:23
+#: views/admin_side/user/user_lock.php:35
+msgid "IT Group"
+msgstr "گروه ای تی"
+
+#: views/admin_side/permanent_parts/admin_header.php:52
+#: views/front_side/common/header.php:81
+msgid "Dari"
+msgstr "دری "
+
+#: views/admin_side/permanent_parts/admin_header.php:53
+#: views/front_side/common/header.php:82
+msgid "English"
+msgstr "انگلیسی"
+
+#: views/admin_side/permanent_parts/admin_header.php:66
+msgid "Go To WebSite"
+msgstr "برو به وب سایت"
+
+#: views/admin_side/permanent_parts/admin_header.php:67
+msgid "My Profile"
+msgstr "پروفایل من"
+
+#: views/admin_side/permanent_parts/admin_header.php:72
+msgid "Full Screen"
+msgstr "تمام صفحه"
+
+#: views/admin_side/permanent_parts/admin_header.php:73
+msgid "Lock Screen"
+msgstr "قفل کردن صفحه"
+
+#: views/admin_side/permanent_parts/admin_header.php:74
+msgid "Log Out"
+msgstr "خروج"
+
+#: views/admin_side/permanent_parts/admin_sidebar.php:14
+msgid "Search"
+msgstr "جستجو"
+
+#: views/admin_side/permanent_parts/admin_sidebar.php:23
+msgid "Dashboard"
+msgstr "داشبورد"
+
+#: views/admin_side/permanent_parts/admin_sidebar.php:30
+msgid "Users"
+msgstr "کاربرها"
+
+#: views/admin_side/permanent_parts/admin_sidebar.php:40
+#: views/admin_side/permanent_parts/admin_sidebar.php:58
+#: views/admin_side/permanent_parts/admin_sidebar.php:71
+#: views/admin_side/permanent_parts/admin_sidebar.php:88
+#: views/admin_side/permanent_parts/admin_sidebar.php:105
+#: views/admin_side/permanent_parts/admin_sidebar.php:123
+#: views/admin_side/permanent_parts/admin_sidebar.php:140
+#: views/admin_side/permanent_parts/admin_sidebar.php:157
+msgid "Manage"
+msgstr "مدیریت"
+
+#: views/admin_side/permanent_parts/admin_sidebar.php:65
+msgid "Slideshow"
+msgstr " سلاید شو"
+
+#: views/admin_side/permanent_parts/admin_sidebar.php:78
+msgid "About US"
+msgstr "درباره ما"
+
+#: views/admin_side/permanent_parts/admin_sidebar.php:171
+msgid "Website Settings"
+msgstr "تنظیمات وب سایت"
+
+#: views/admin_side/photo_gallery/add.php:11
+msgid "Add New Gallery"
+msgstr "اضافه کردن گالری جدید"
+
+#: views/admin_side/photo_gallery/edit.php:23
+msgid "Update Gallery"
+msgstr "بروز کردن گالری "
+
+#: views/admin_side/photo_gallery/edit.php:70
+msgid "Update Images"
+msgstr "بروز کردن عکس ها"
+
+#: views/admin_side/photo_gallery/gallery_image.php:6
+msgid "Add Images"
+msgstr "اضافه کردن عکس"
+
+#: views/admin_side/setting/index.php:23
+msgid "Location Information"
+msgstr "معلومات مکانی "
+
+#: views/admin_side/setting/index.php:32 views/admin_side/user/add.php:91
+msgid "Phone"
+msgstr "تلفن ثابت"
+
+#: views/admin_side/setting/index.php:39 views/admin_side/user/add.php:98
+#: views/front_side/common/footer.php:22
+msgid "Mobile"
+msgstr "موبایل"
+
+#: views/admin_side/setting/index.php:46 views/admin_side/user/add.php:48
+#: views/admin_side/user/login.php:31 views/admin_side/user/login.php:35
+#: views/admin_side/user/manage.php:47
+msgid "Email"
+msgstr "ایمیل "
+
+#: views/admin_side/setting/index.php:53 views/admin_side/user/add.php:105
+msgid "City"
+msgstr "شهر"
+
+#: views/admin_side/setting/index.php:56 views/admin_side/user/add.php:108
+msgid "Herat"
+msgstr "هرات"
+
+#: views/admin_side/setting/index.php:57 views/admin_side/user/add.php:109
+msgid "Kabul"
+msgstr "کابل"
+
+#: views/admin_side/setting/index.php:58 views/admin_side/user/add.php:110
+msgid "Mazar"
+msgstr "مزار"
+
+#: views/admin_side/setting/index.php:64 views/admin_side/user/add.php:116
+msgid "Address"
+msgstr "آدرس"
+
+#: views/admin_side/setting/index.php:90
+msgid "Socail Address"
+msgstr "آدرس شبکه های اجتماعی "
+
+#: views/admin_side/setting/index.php:99
+msgid "facebook Page"
+msgstr "صفحه فیس بوک"
+
+#: views/admin_side/setting/index.php:106
+msgid "Tweeter Acount"
+msgstr "حساب تویتر"
+
+#: views/admin_side/setting/index.php:113
+msgid "Google Plus+"
+msgstr "حساب گوگل پلاس "
+
+#: views/admin_side/setting/index.php:132
+msgid "Upload Your Logo"
+msgstr "بارگذاری لوگو"
+
+#: views/admin_side/user/add.php:20
+msgid "Basic information"
+msgstr "معلومات پایه"
+
+#: views/admin_side/user/add.php:32
+msgid "Type Your Name"
+msgstr "اسم خود را وارد کنید "
+
+#: views/admin_side/user/add.php:41 views/admin_side/user/manage.php:46
+msgid "Last Name"
+msgstr "فامیلی "
+
+#: views/admin_side/user/add.php:43
+msgid "Type Your Last Name"
+msgstr "تخلص خود را وارد کنید"
+
+#: views/admin_side/user/add.php:50
+msgid "Type Your Email It Acts As Your Username"
+msgstr "ایمیل خود را وارد کنید. منحیث نام کاربری شما میباشد"
+
+#: views/admin_side/user/add.php:55 views/admin_side/user/login.php:40
+#: views/admin_side/user/login.php:44
+msgid "Password"
+msgstr "رمز عبور"
+
+#: views/admin_side/user/add.php:57
+msgid "Type Your Password Alghabatic, Nameric, Symboles"
+msgstr "رمز عبور خود را با استفاده از حروف الفبا اعداد و سمبول وارد کنید"
+
+#: views/admin_side/user/add.php:62
+msgid "Birth Of Date"
+msgstr "تاریخ تولد"
+
+#: views/admin_side/user/add.php:82
+msgid "Contact and Location information"
+msgstr "اطلاعات مخاطب و موقعیت مکانی "
+
+#: views/admin_side/user/add_profile_image.php:53
+msgid "Plaese Upload Your Image"
+msgstr "لطفا عکس خود را بارگذاری کنید"
+
+#: views/admin_side/user/login.php:24
+msgid "Login to your account"
+msgstr "وارد حساب کاربری خود شوید"
+
+#: views/admin_side/user/login.php:27
+msgid "Enter any username and password"
+msgstr "نام کاربری و رمز عبور خود را وارد کنید"
+
+#: views/admin_side/user/login.php:50
+msgid "Remember me"
+msgstr "مرا به خاطر بسپار"
+
+#: views/admin_side/user/login.php:53
+msgid "Login"
+msgstr "ورود"
+
+#: views/admin_side/user/login.php:57
+msgid "Forgot your password"
+msgstr "ایا رمز عبور خود را فراموش کرده اید"
+
+#: views/admin_side/user/login.php:59
+msgid "no worries, click"
+msgstr "نگران نباشید وکلیک کنید"
+
+#: views/admin_side/user/login.php:59
+msgid "here"
+msgstr "اینجا"
+
+#: views/admin_side/user/login.php:60
+msgid "to reset your password"
+msgstr "نوسازی رمز عبور"
+
+#: views/admin_side/user/login.php:68
+msgid "Forget Password"
+msgstr "فراموش کردن رمز عبور"
+
+#: views/admin_side/user/login.php:69
+msgid "Enter your e-mail address below to reset your password"
+msgstr "ایمیل خود را برای نوسازی رمز عبور وارد کنید"
+
+#: views/admin_side/user/login.php:80
+msgid "Back"
+msgstr "برگشت"
+
+#: views/admin_side/user/manage.php:36
+msgid "Save PDF"
+msgstr "ذخیره به عنوان پی دی اف"
+
+#: views/admin_side/user/manage.php:48
+msgid "Position"
+msgstr "موقعیت"
+
+#: views/admin_side/user/reset_request.php:15
+msgid "An email sent to your email address"
+msgstr "لطفا یک آدرس ایمیل اضافه نمایید"
+
+#: views/admin_side/user/reset_request.php:16
+msgid "refer to and reset your password"
+msgstr "مراجعه کنید و رمز خود را نوسازی کنید"
+
+#: views/admin_side/user/user_lock.php:26
+msgid "Not"
+msgstr "نیستم "
+
+#: views/admin_side/video_gallery/add.php:10
+msgid "Add New Video Gallery"
+msgstr "اضافه کردن یک ویدیو گالری جدید"
+
+#: views/admin_side/video_gallery/add.php:29
+#: views/admin_side/video_gallery/edit.php:79
+#: views/admin_side/video_gallery/gallery_video.php:21
+msgid "Youtube URL"
+msgstr "آدرس یوتیوب"
+
+#: views/admin_side/video_gallery/edit.php:23
+msgid "Update Video Gallery"
+msgstr "بروز کردن ویدئو گالری "
+
+#: views/admin_side/video_gallery/gallery_video.php:13
+msgid "Add More Videos To The Article"
+msgstr "اضافه کردن ویدئو بیشتر به مطلب"
+
+#: views/admin_side/video_gallery/gallery_video.php:49
+msgid "Videos Of Your Gallery"
+msgstr "ویدئوهای گالری شما"
+
+#: views/admin_side/video_gallery/index.php:14
+msgid "Manage Video Gallery"
+msgstr "مدیریت ویدئو گالری"
+
+#: views/front_side/common/footer.php:15
+msgid "Get in touch with us"
+msgstr "با ما به تماس شوید"
+
+#: views/front_side/common/footer.php:21
+msgid " Phone"
+msgstr " تلفن ثابت"
+
+#: views/front_side/common/footer.php:24
+msgid " Email"
+msgstr "ایمیل"
+
+#: views/front_side/common/footer.php:36
+msgid "BROOZ SOFT"
+msgstr "بروز سافت"
+
+#: views/front_side/common/footer.php:36
+msgid "IT Consultant Group"
+msgstr "گروه خدمات مشاوره آی تی"
+
+#: views/front_side/common/header.php:63 views/front_side/pages/about.php:9
+msgid "About Us"
+msgstr "درباره ما "
+
+#: views/front_side/common/header.php:64 views/front_side/pages/contact.php:9
+msgid "Contact"
+msgstr "تماس با ما"
+
+#: views/front_side/common/header.php:67
+#: views/front_side/pages/photo_gallery.php:9
+#: views/front_side/pages/video_gallery.php:10
+msgid "Gallery"
+msgstr "گالری"
+
+#: views/front_side/pages/about.php:63
+msgid "Know more about us"
+msgstr "ما را بهتر بشناسید"
+
+#: views/front_side/pages/contact.php:22
+msgid "Get in touch with us by filling contact form below"
+msgstr "با فرستادن پیغام تان برای ما توسط فرم زیر با ما به تماس باشید"
+
+#: views/front_side/pages/contact.php:25
+msgid "Your message has been sent. Thank you!"
+msgstr "پیام شما ارسال شد"
+
+#: views/front_side/pages/contact.php:29
+msgid "Enter your full name"
+msgstr "وارد کردن نام کامل شما"
+
+#: views/front_side/pages/contact.php:34
+msgid "Enter your email address"
+msgstr " لطفا یک آدرس ایمیل اضافه نمایید"
+
+#: views/front_side/pages/contact.php:39
+msgid "Enter your subject"
+msgstr "عنوان خودرا وارد کنید"
+
+#: views/front_side/pages/contact.php:44
+msgid "Your message here..."
+msgstr "پیام شما دراینجا"
+
+#: views/front_side/pages/contact.php:48
+msgid "Submit message"
+msgstr "فرستادن پیام "
+
+#: views/front_side/pages/contact.php:49
+msgid "Please fill all required form field, thanks!"
+msgstr "لطفا تمام فیلدهای ضروری را وارد کنید!"
+
+#: views/front_side/pages/home.php:129
+msgid "About us"
+msgstr " درباره"
+
+#: views/front_side/pages/home.php:151
+msgid "Read More"
+msgstr "ادامه مطلب"
+
+#: views/front_side/pages/home.php:162
+msgid "Awards"
+msgstr " افتخارات"
+
+#: views/front_side/pages/photo_gallery.php:227
+msgid "Albums"
+msgstr "آلبوم ها"
+
+#: views/front_side/pages/products.php:23
+msgid "All"
+msgstr "همه"
+
+#: views/front_side/pages/video_gallery.php:132
+msgid "Videos"
+msgstr "ویدیوها"
+
+#~ msgid "You can use just alphabet, numeric, and spaces!"
+#~ msgstr "از حروف الفبا، اعداد، و فاصله استفاده نمایید"
+
+#~ msgid "Categories"
+#~ msgstr "دسته ها"
+
+#~ msgid "Branches"
+#~ msgstr "شعبات"
+
+#~ msgid "Ansari Company"
+#~ msgstr "شرکت انصاری"
+
+#~ msgid "Profile Info"
+#~ msgstr "اطلاعات پروفایل "
+
+#~ msgid "Account"
+#~ msgstr "حساب"
+
+#~ msgid "LastName"
+#~ msgstr "فامیلی"
+
+#~ msgid "Birthday"
+#~ msgstr "تاریح تولد"
+
+#~ msgid "Website"
+#~ msgstr "وب سایت"
+
+#~ msgid "Phone Number"
+#~ msgstr "تلفن ثابت"
+
+#~ msgid "Mobile Number"
+#~ msgstr "شماره مبایل"
+
+#~ msgid "Edit Profile Info"
+#~ msgstr "ویرایش اطلاعات پروفایل"
+
+#~ msgid "Change Password"
+#~ msgstr "تغییر رمز عبور"
+
+#~ msgid "Current Password"
+#~ msgstr "رمز عبور فعلی "
+
+#~ msgid "Old Password"
+#~ msgstr "رمز عبور قبلی"
+
+#~ msgid "New Password"
+#~ msgstr "رمز عبور جدید"
+
+#~ msgid "Re-type New Password"
+#~ msgstr "دوباره وارد کردن رمز عبور جدید"
+
+#~ msgid "Agencies"
+#~ msgstr "نمایندگی ها"
+
+#~ msgid "Enter Email"
+#~ msgstr "ایمیل آدرس"
+
+#~ msgid "Type Your Message..."
+#~ msgstr "پیام خود را بنویسید..."
+
+#~ msgid "Herat: Behzad road, Haqiqat Market"
+#~ msgstr "هرات: جاده بهزاد، مارکت حقیقت"
+
+#~ msgid "Kabul: Heidar Khan Castel, Habib Market"
+#~ msgstr "کابل: قلعه حیدر خان، حبیب مارکت"
+
+#~ msgid "Nimrooz: Rasta Bazaar, behind the public masque"
+#~ msgstr "نیمروز: راسته بازار، عقب مسجد جامع"
+
+#~ msgid "Farah: Shah Bazaar, Asef Market"
+#~ msgstr "فراه: شاه بازار، مارکت آصف صراف"
+
+#~ msgid "Kandahar: 1st district, Etemad Market"
+#~ msgstr "کندهار: ناحیه اول، اعتماد مارکت"
+
+#~ msgid "Herat:"
+#~ msgstr "هرات: "
+
+#~ msgid "Nimrooz"
+#~ msgstr "نیمروز"
+
+#~ msgid "Farah"
+#~ msgstr "فراه"
+
+#~ msgid "Kandahar"
+#~ msgstr "کندهار"
+
+#~ msgid "Herat: +93 (0) 729 580 150"
+#~ msgstr "هرات: +93 (0) 729 580 150"
+
+#~ msgid "Web design"
+#~ msgstr "طراحی وب سایت"
+
+#~ msgid "Icons"
+#~ msgstr "ایکون ها"
+
+#~ msgid "Graphic design"
+#~ msgstr "طراح گرافیک"
+
+#~ msgid "Address: Herat, Afghanistan-Khosh Bezar,"
+#~ msgstr "ادرس هرات افغانستان بازار خوش "
+
+#~ msgid "in front of Poostin Market, across of zall khan aveniu"
+#~ msgstr "روبه روی مارکت پوستین ،کنار خیابان زال خان"
+
+#~ msgid "Mobile:"
+#~ msgstr "مبایل"
+
+#~ msgid "algha"
+#~ msgstr "فقط حروف را وارد کنید"
